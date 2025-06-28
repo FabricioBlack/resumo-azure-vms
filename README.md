@@ -31,11 +31,11 @@ Este repositório foi criado como parte do desafio da DIO no curso de preparaç�
 
 ## 💡 Dicas Pessoais
 
-- **Documente tudo!** Sempre que criar uma VM, registre o propósito dela, credenciais e configurações iniciais.
+- **Documente tudo!** Sempre que criar uma VM, registre o propósito dela, credenciais e configurações iniciais para que possa consultar em caso de dúvidas.
 - **Use o Auto-shutdown** em ambientes de teste para economizar créditos ou custos.
-- **Revise os tamanhos de VMs com frequência.** Muitas vezes, usamos máquinas maiores do que o necessário.
-- **Organize por Resource Group.** Isso facilita a exclusão em lote e o controle de acesso.
-- **Monitore sempre.** Configure alertas para evitar surpresas na conta!
+- **Revise os tamanhos de VMs com frequência.** Muitas vezes, usamos máquinas maiores do que o necessário, desta forma ira economizar créditos.
+- **Organize por Resource Group.** Isso facilita a exclusão em lote e o controle de acesso. Faz total diferença para gerenciamento de custos na empresa.
+- **Monitore sempre.** Configure alertas para evitar surpresas na conta, e deixe seu ambiente sempre saudavel
 
 ---
 
@@ -49,7 +49,7 @@ Este repositório foi criado como parte do desafio da DIO no curso de preparaç�
 
 ## 🙋‍♂️ Sobre mim
 
-Meu nome é Fabrício e sou apaixonado por tecnologia, aprendizado constante e automação.  
+Meu nome é Fabrício Santana e sou apaixonado por tecnologia.
 Este repositório é parte da minha jornada rumo à certificação AZ-104, e espero que ele também ajude outras pessoas que estão estudando e enfrentando os mesmos desafios. 🚀
 
 ---
