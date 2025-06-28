@@ -39,11 +39,6 @@ Este repositório foi criado como parte do desafio da DIO no curso de preparaç�
 
 ---
 
-## 📸 Imagens e Prints (opcional)
-Você pode adicionar aqui prints das configurações ou etapas feitas no portal do Azure para enriquecer o repositório.
-
----
-
 ## 📚 Fontes e Referências
 
 - [Documentação oficial do Azure](https://learn.microsoft.com/pt-br/azure/virtual-machines/)
